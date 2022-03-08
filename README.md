@@ -31,3 +31,38 @@
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=soz0&langs_count=3&bg_color=55,020024,4c005d,79096d&text_color=ffffff" />
 </div>
 
+<p align="center">
+  <a href="#">
+    <img src="svg/frameworks/angular.svg" alt="java" style="vertical-align:top margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/frameworks/jquery.svg" alt="c#" style="vertical-align:top margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/frameworks/nodejs.svg" alt="pythom" style="vertical-align:top margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/frameworks/phonegap.svg" alt="js" style="vertical-align:top margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/frameworks/react.svg" alt="php" style="vertical-align:top margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/frameworks/unity.svg" alt="html" style="vertical-align:top margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/frameworks/uwp.svg" alt="css" style="vertical-align:top margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/frameworks/xamarin.android.svg" alt="css" style="vertical-align:top margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/frameworks/xamarin.forms.svg" alt="css" style="vertical-align:top margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/frameworks/xamarin.ios.svg" alt="css" style="vertical-align:top margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/frameworks/xamarin.mac.svg" alt="css" style="vertical-align:top margin:6px 4px">
+  </a> 
+</p>
