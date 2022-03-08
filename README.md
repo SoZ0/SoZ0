@@ -67,9 +67,11 @@
   </a> 
 </p>
 <h1 align="center" style="text-center">Some of my favourite projects</h1>
-![](https://github-readme-stats.vercel.app/api/pin/?username=FRC-6390&repo=FRC-Season-2022&bg_color=55,020024,4c005d,79096d&text_color=ffffff) One of the lead programmers on the FIRST Robotics team Hephaestus#6390
-  ![](https://github-readme-stats.vercel.app/api/pin/?username=FRC-6390&repo=frc-prodromoi&bg_color=55,020024,4c005d,79096d&text_color=ffffff) The most advance scouting I've ever made
-  ![](https://github-readme-stats.vercel.app/api/pin/?username=FRC-6390&repo=Swerve2021&bg_color=55,020024,4c005d,79096d&text_color=ffffff) The first team in British Columbia, Canada to successfully create a SwerveDrive robot
+<div class="">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=FRC-6390&repo=FRC-Season-2022&bg_color=55,020024,4c005d,79096d&text_color=ffffff" /> <h2>One of the lead programmers on the FIRST Robotics team Hephaestus#6390</h2>
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=FRC-6390&repo=frc-prodromoi&bg_color=55,020024,4c005d,79096d&text_color=ffffff" /><h2>The most advance scouting I've ever made</h2>
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=FRC-6390&repo=frc-prodromoi&bg_color=55,020024,4c005d,79096d&text_color=ffffff" /><h2>The first team in British Columbia, Canada to successfully create a SwerveDrive robot</h2>
+</div>
 <h1 align="center" style="text-center">Tools I use</h1>
 <p align="center">
   <a href="#">
