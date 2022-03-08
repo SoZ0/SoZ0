@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="css/style.css"></link>
 <h1 align="center" style="text-center"> Hi, I'm Mathias Petersen</h1>
-
+<a  align="center" href="#">
+    <img src="svg/other/pronouns.svg" alt="java" style="vertical-align:top margin:6px 4px">
+</a> 
 
 <p align="center">
   <a href="#">
@@ -70,7 +72,7 @@
 <div class="">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=FRC-6390&repo=FRC-Season-2022&bg_color=55,020024,4c005d,79096d&text_color=ffffff" /> <h2>One of the lead programmers on the FIRST Robotics team Hephaestus#6390</h2>
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=FRC-6390&repo=frc-prodromoi&bg_color=55,020024,4c005d,79096d&text_color=ffffff" /><h2>The most advance scouting I've ever made</h2>
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=FRC-6390&repo=frc-prodromoi&bg_color=55,020024,4c005d,79096d&text_color=ffffff" /><h2>The first team in British Columbia, Canada to successfully create a SwerveDrive robot</h2>
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=FRC-6390&repo=Swerve2021&bg_color=55,020024,4c005d,79096d&text_color=ffffff" /><h2>The first team in British Columbia, Canada to successfully create a SwerveDrive robot</h2>
 </div>
 <h1 align="center" style="text-center">Tools I use</h1>
 <p align="center">
@@ -97,9 +99,11 @@
   </a> 
 </p>
 <h1 align="center" style="text-center">Find me here</h1>
-<div class="">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=FRC-6390&repo=FRC-Season-2022&bg_color=55,020024,4c005d,79096d&text_color=ffffff" />
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=FRC-6390&repo=frc-prodromoi&bg_color=55,020024,4c005d,79096d&text_color=ffffff" />
-</div>
-Swerve2021
-![Readme Card]()]
+<p align="center">
+  <a href="#">
+    <img src="svg/other/email.svg" alt="java" style="vertical-align:top margin:6px 4px"> Mathias@pepservices.com
+  </a>  
+  <a href="#">
+    <img src="svg/other/linkedin.svg" alt="c#" style="vertical-align:top margin:6px 4px">
+  </a>  
+</p>
