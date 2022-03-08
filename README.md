@@ -1,9 +1,10 @@
 <link rel="stylesheet" href="css/style.css"></link>
 <h1 align="center" style="text-center"> Hi, I'm Mathias Petersen</h1>
-<a  align="center" href="#">
+<p align="center">
+<a href="#">
     <img src="svg/other/pronouns.svg" alt="java" style="vertical-align:top margin:6px 4px">
 </a> 
-
+</p>
 <p align="center">
   <a href="#">
     <img src="svg/languages/java.svg" alt="java" style="vertical-align:top margin:6px 4px">
@@ -100,10 +101,7 @@
 </p>
 <h1 align="center" style="text-center">Find me here</h1>
 <p align="center">
-  <a href="#">
-    <img src="svg/other/email.svg" alt="java" style="vertical-align:top margin:6px 4px"> Mathias@pepservices.com
-  </a>  
-  <a href="#">
+  <a href="https://www.linkedin.com/in/mathiasdp/">
     <img src="svg/other/linkedin.svg" alt="c#" style="vertical-align:top margin:6px 4px">
   </a>  
 </p>
