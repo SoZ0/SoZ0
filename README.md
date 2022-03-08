@@ -3,7 +3,7 @@
     <img src="svg/languages/java.svg" alt="java" style="vertical-align:top margin:6px 4px">
   </a>  
   <a href="#">
-    <img src="svg/languages/c#.svg" alt="c#" style="vertical-align:top margin:6px 4px">
+    <img src="svg/languages/csharp.svg" alt="c#" style="vertical-align:top margin:6px 4px">
   </a>  
   <a href="#">
     <img src="svg/languages/python.svg" alt="pythom" style="vertical-align:top margin:6px 4px">
