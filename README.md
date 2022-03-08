@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="svg/languages/java.svg" alt="java" style="vertical-align:top margin:6px 4px">
   </a>  
 </p>
 
